@@ -1,0 +1,8 @@
+Total even count is: 4
+Total odd count is: 5
+Total prime count is: 3
+Total palindrome count is: 1
+Total even count is: 4
+Total odd count is: 5
+Total prime count is: 4
+Total palindrome count is: 1
