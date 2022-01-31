@@ -1,0 +1,68 @@
+**** SHOPPING CART ****
+1.Credit Card
+2.Pay Pal
+3.Bit Coin
+4.Exit
+
+Enter the Choice ::1
+----------------------------------------------------------
+
+Enter amount to be Transfer :: 42000
+----------------------------------------------------------
+----------------------------------------------------------
+      Card holder Name :: Radhika Jadhav
+      Card Number :: 112005255012145
+      Card CVV Number :: 322
+      Card Expire Date :: 01/06/2022
+----------------------------------------------------------
+Paying through CreditCard : Charging $42000
+----------------------------------------------------------
+
+**** SHOPPING CART ****
+1.Credit Card
+2.Pay Pal
+3.Bit Coin
+4.Exit
+
+Enter the Choice ::2
+----------------------------------------------------------
+
+Enter amount to be Transfer :: 15000
+----------------------------------------------------------
+Verify Email Id :: myac966@gmail.com
+Enter password :: *******
+
+Checking Internet Connection........
+----------------------------------------------------------
+Paying through PayPal : Charging $15000
+----------------------------------------------------------
+
+**** SHOPPING CART ****
+1.Credit Card
+2.Pay Pal
+3.Bit Coin
+4.Exit
+
+Enter the Choice ::3
+----------------------------------------------------------
+
+Enter amount to be Transfer :: 30000
+----------------------------------------------------------
+
+Enter your Phone Number :: 7455668020
+Enter OTP :: 125963
+----------------------------------------------------------
+Paying through BitCoin payment: Charging $30000
+----------------------------------------------------------
+
+**** SHOPPING CART ****
+1.Credit Card
+2.Pay Pal
+3.Bit Coin
+4.Exit
+
+Enter the Choice ::4
+----------------------------------------------------------
+
+Thank you For Shopping !!!!
+----------------------------------------------------------
