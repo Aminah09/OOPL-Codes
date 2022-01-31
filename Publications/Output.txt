@@ -1,0 +1,123 @@
+INDEX
+1.BOOK 2.MAGAZINE
+3.TOTAL SALE AMOUNT
+Choice::1
+INDEX FOR BOOK
+1.Read Book 2.Display
+3.Sale Copies 4.Order Copies
+Choice::1
+Enter title : Antic Hay
+Enter price : 670
+Enter copies : 2
+Enter author of book: Aldous Huxley
+------------------------------------------------------------------------------
+Do you want to continue with book section
+1.YES 0.NO
+Choice::1
+INDEX FOR BOOK
+1.Read Book 2.Display
+3.Sale Copies 4.Order Copies
+Choice::2
+Title Price Copy Author
+Antic Hay 670 2 Aldous
+------------------------------------------------------------------------------
+Do you want to continue with book section
+1.YES 0.NO
+Choice::1
+INDEX FOR BOOK
+1.Read Book 2.Display
+3.Sale Copies 4.Order Copies
+Choice::3
+How many copies you want (for customer) : 4
+Insufficient Stock !!!!
+------------------------------------------------------------------------------
+Do you want to continue with book section
+1.YES 0.NO
+Choice::1
+INDEX FOR BOOK
+1.Read Book 2.Display
+3.Sale Copies 4.Order Copies
+Choice::3
+How many copies you want (for customer) : 2
+You purchased 2 copies
+You have to pay : 1340
+------------------------------------------------------------------------------
+Do you want to continue with book section
+1.YES 0.NO
+Choice::1
+INDEX FOR BOOK
+1.Read Book 2.Display
+3.Sale Copies 4.Order Copies
+Choice::4
+Enter copies you want to order (for shop) : 4
+Order Successful....
+Copies Available : 4
+------------------------------------------------------------------------------
+Do you want to continue with book section
+1.YES 0.NO
+Choice::0
+Do you want to continue with publication ?
+1.YES 0.NO
+1
+INDEX
+1.BOOK 2.MAGAZINE
+3.TOTAL SALE AMOUNT
+Choice::2
+INDEX FOR MAGAZINE
+1.READ 2.DISPLAY
+3.SALE MAGAZINE COPIES 4.RECEIVE NEW ISSUE
+Choice::1
+Enter title : Vogue
+Enter price : 980
+Enter copies : 6
+Enter the current issue date [dd/mm/yyyy]03/08/2021
+------------------------------------------------------------------------------
+Do you want to continue with magazine section
+1.YES 0.NO
+Choice::1
+INDEX FOR MAGAZINE
+1.READ 2.DISPLAY
+3.SALE MAGAZINE COPIES 4.RECEIVE NEW ISSUE
+Choice::2
+Title Price Copy Date
+Vogue 980 6 03/08/2021
+------------------------------------------------------------------------------
+Do you want to continue with magazine section
+1.YES 0.NO
+Choice::1
+INDEX FOR MAGAZINE
+1.READ 2.DISPLAY
+3.SALE MAGAZINE COPIES 4.RECEIVE NEW ISSUE
+Choice::3
+How many copies you want (for customer) :
+3
+You purchased 3 copies
+You have to pay : 2940
+------------------------------------------------------------------------------
+Do you want to continue with magazine section
+1.YES 0.NO
+Choice::1
+INDEX FOR MAGAZINE
+1.READ 2.DISPLAY
+3.SALE MAGAZINE COPIES 4.RECEIVE NEW ISSUE
+Choice::4
+Enter the new issue date [dd/mm/yyyy]:
+27/08/2021
+Enter new copies ordered :
+5
+The magazine Vogue with issue date 27/08/2021 is available.
+------------------------------------------------------------------------------
+Do you want to continue with magazine section
+1.YES 0.NO
+Choice::0
+Do you want to continue with publication ?
+1.YES 0.NO
+1
+INDEX
+1.BOOK 2.MAGAZINE
+3.TOTAL SALE AMOUNT
+Choice::3
+Total sale amount to be paid by customer is = 4280
+Do you want to continue with publication ?
+1.YES 0.NO
+0
