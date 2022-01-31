@@ -1,0 +1,67 @@
+1.Create Account
+2.Display Account
+3.Check Balance
+4.Deposit Amount
+5.Withdraw Amount
+6.Exit
+Enter your choice: 1
+
+Enter your name: Radhika
+Enter your age: 22
+Enter your account Id: 11102055
+Enter your account type: Saving
+Enter balance: 50000
+Enter minimum balance: 3000
+--------------------------------------------------
+1.Create Account
+2.Display Account
+3.Check Balance
+4.Deposit Amount
+5.Withdraw Amount
+6.Exit
+Enter your choice: 4
+
+Enter the amount you want to deposit: 20000
+Amount deposited successfully. Balance is: 70000.0
+--------------------------------------------------
+1.Create Account
+2.Display Account
+3.Check Balance
+4.Deposit Amount
+5.Withdraw Amount
+6.Exit
+Enter your choice: 5
+
+Enter the amount you want to withdraw: 22500
+Withdrawal failed. Maximum limit of withdrawal in one transaction is Rs.20000.
+--------------------------------------------------
+1.Create Account
+2.Display Account
+3.Check Balance
+4.Deposit Amount
+5.Withdraw Amount
+6.Exit
+Enter your choice: 5
+
+Enter the amount you want to withdraw: 17000
+Withdrawal successful. Balance is: 53000.0
+--------------------------------------------------
+1.Create Account
+2.Display Account
+3.Check Balance
+4.Deposit Amount
+5.Withdraw Amount
+6.Exit
+Enter your choice: 3
+
+Balance is: 53000.0
+--------------------------------------------------
+1.Create Account
+2.Display Account
+3.Check Balance
+4.Deposit Amount
+5.Withdraw Amount
+6.Exit
+Enter your choice: 6
+
+--------------------------------------------------
