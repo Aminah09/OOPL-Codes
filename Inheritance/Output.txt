@@ -1,0 +1,139 @@
+1.PROGRAMMER
+2.TEAM LEAD
+3.ASSISTANT PROJECT MANAGER
+4.PROJECT MANAGER
+5.EXIT
+Choice::1
+PROGRAMMER INFO
+1. INPUT
+2. DISPLAY
+3. EXIT
+Choice::1
+---------------------------------------------------------------------------------
+Enter the name of Employee: John Byers
+Enter Employee ID: 11021
+Enter Address: NewYork city
+Enter Mobile No.: 7732456601
+Enter Email ID: john@gmail.com
+BASIC PAY[30000-40000]: 34000
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+PROGRAMMER INFO
+1. INPUT
+2. DISPLAY
+3. EXIT
+Choice::2
+---------------------------------------------------------------------------------
+****************************************************************
+EMP NAME     ID    ADDRESS       MOBILE      EMAIL
+****************************************************************
+John Byers  11021  NewYork city  7732456601  john@gmail.com
+HRA : 3400.0
+PF : 4080.0
+Net Salary : 34000.0
+Gross Salary : 66266.0
+---------------------------------------------------------------------------------
+PROGRAMMER INFO
+1. INPUT
+2. DISPLAY
+3. EXIT
+Choice::3
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+1.PROGRAMMER
+2.TEAM LEAD
+3.ASSISTANT PROJECT MANAGER
+4.PROJECT MANAGER
+5.EXIT
+Choice::2
+TEAMLEAD INFO
+1. INPUT
+2. DISPLAY
+3. EXIT
+Choice::1
+-------------------------------------------------------------------------------------------
+Enter the name of Employee: Alan White
+Enter Employee ID: 22011
+Enter Address: San Francisco
+Enter Mobile No.: 4422090970
+Enter Email ID: alan@gmail.com
+BASIC PAY [40000 - 50000] : 33000
+SORRY!!! Basic Pay range for Teamlead [40000 - 50000]
+TRY AGAIN.....
+BASIC PAY [40000 - 50000] : 42000
+---------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------
+TEAMLEAD INFO
+1. INPUT
+2. DISPLAY
+3. EXIT
+Choice::2
+-------------------------------------------------------------------------------------------
+****************************************************************
+EMP NAME    ID      ADDRESS        MOBILE      EMAIL
+****************************************************************
+Alan White  22011  San Francisco  4422090970  alan@gmail.com
+HRA : 4200.0
+PF : 5040.0
+Net Salary : 42000.0
+Gross Salary : 81858.0
+-------------------------------------------------------------------------------------------
+TEAMLEAD INFO
+1. INPUT
+2. DISPLAY
+3. EXIT
+Choice::3
+-------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------
+1.PROGRAMMER
+2.TEAM LEAD
+3.ASSISTANT PROJECT MANAGER
+4.PROJECT MANAGER
+5.EXIT
+Choice::4
+PROJECT MANAGER INFO
+1. INPUT
+2. DISPLAY
+3. EXIT
+Choice::1
+-------------------------------------------------------------------------------------------
+Enter the name of Employee: Michal Ford
+Enter Employee ID: 40111
+Enter Address: Kuala Lumpur
+Enter Mobile No.: 4099887009
+Enter Email ID: mic12@gmail.com
+BASIC PAY [60000 - 70000] : 67000
+--------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------
+PROJECT MANAGER INFO
+1. INPUT
+2. DISPLAY
+3. EXIT
+Choice::2
+-------------------------------------------------------------------------------------------
+****************************************************************
+EMP NAME      ID     ADDRESS      MOBILE      EMAIL
+****************************************************************
+Michal Ford  40111  Kuala Lumpur 4099887009  mic12@gmail.com
+HRA : 6700.0
+PF : 8040.0
+Net Salary : 67000.0
+Gross Salary : 130583.0
+-------------------------------------------------------------------------------------------
+PROJECT MANAGER INFO
+1. INPUT
+2. DISPLAY
+3. EXIT
+Choice::3
+-------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------
+1.PROGRAMMER
+2.TEAM LEAD
+3.ASSISTANT PROJECT MANAGER
+4.PROJECT MANAGER
+5.EXIT
+Choice::5
+Would you like to Exit
+1.YES
+2.No
+Choice::1
