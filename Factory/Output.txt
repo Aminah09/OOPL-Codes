@@ -1,0 +1,93 @@
+Which Car you want to See ?
+
+1.Small Car
+2.Sedan Car
+3.Luxury Car
+4.Exit
+1
+
+Company : Honda Motor Company
+Car : Honda Amaze
+Rough Budget(in Lakhs) : 1000000
+
+----------------------------------------
+Company : Honda Motor Company
+Name of Car : Honda Amaze
+Color : Black/White/Orange/Red
+Fuel : Petrol
+Gears: Manual
+
+----------------------------------------
+Types of Tyres- Alloy Wheels
+Airbags : Yes
+Back Wiper : Yes
+Side Mirror : Two
+Touch Screen Music Player : Yes
+
+----------------------------------------
+Which Car you want to See ?
+
+1.Small Car
+2.Sedan Car
+3.Luxury Car
+4.Exit
+2
+Company : Maruti Suzuki
+Car : Maruti Dzire
+Rough Budget(in Lakhs) : 1200000
+
+----------------------------------------
+Company : Maruti Suzuki
+Name of Car : Maruti Dzire
+Color : Black/White/Orange/Red
+Fuel : Petrol/Diesel
+Gears : Auto/Manual
+
+----------------------------------------
+Types of Tyres : Alloy Wheels
+Airbags : YES
+Back Wiper : YES
+Side Mirror : Two
+Touch Screen Music Player : YES
+Roof Window- Yes
+
+----------------------------------------
+Which Car you want to See ?
+
+1.Small Car
+2.Sedan Car
+3.Luxury Car
+4.Exit
+3
+
+Company : Rolls Royce Motor Cars
+Car : Rolls Royce Dawn
+Rough Budget(in Lakhs) : 9900000
+
+----------------------------------------
+Company : Rolls Royce Motor Cars
+Name of Car : Rolls Royce Dawn
+Color : Black/White/Orange/Red
+Fuel : Diesel
+Gears : Auto
+
+----------------------------------------
+Types of Tyres : Alloy Wheels
+Airbags : YES
+Back Wiper : YES
+Side Mirror : Two
+Touch Screen Music Player : YES
+Roof Window : YES
+Automotive Garbage Cans : Yes
+Automatic Air Freshener : Yes
+Button Start : Yes
+
+-----------------------------------------
+Which Car you want to See ?
+1.Small Car
+2.Sedan Car
+3.Luxury Car
+4.Exit
+4
+
+-----------------------------------------
