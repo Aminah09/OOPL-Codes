@@ -1,0 +1,190 @@
+SELECT VEHICLE
+1.BICYCLE
+2.CAR
+3.BIKE
+4.Exit
+Choice::1
+----------------------------------------------------------------------
+Bicycle started successfully
+----------------------------------------------------------------------
+1. Speed Up
+2. Change gear
+3. Apply Brakes
+4. Display Vehicle Status
+5. Change Vehicle /Exit
+Choice::1
+----------------------------------------------------------------------
+Speed up for bicycle and speed is 15 km/hr
+----------------------------------------------------------------------
+1. Speed Up
+2. Change gear
+3. Apply Brakes
+4. Display Vehicle Status
+5. Change Vehicle /Exit
+Choice::2
+----------------------------------------------------------------------
+Which gear you want? 4
+Gear changed for bicycle is 4
+----------------------------------------------------------------------
+1. Speed Up
+2. Change gear
+3. Apply Brakes
+4. Display Vehicle Status
+5. Change Vehicle /Exit
+Choice::3
+----------------------------------------------------------------------
+1. Decrease speed
+2. Stop bicycle
+1
+Applied brakes for bicycle
+Current speed is 10 km/hr
+----------------------------------------------------------------------
+1. Speed Up
+2. Change gear
+3. Apply Brakes
+4. Display Vehicle Status
+5. Change Vehicle /Exit
+Choice::4
+----------------------------------------------------------------------
+Bicycle's speed is 10 km/hr and gear is 4
+----------------------------------------------------------------------
+1. Speed Up
+2. Change gear
+3. Apply Brakes
+4. Display Vehicle Status
+5. Change Vehicle /Exit
+Choice::5
+----------------------------------------------------------------------
+SELECT VEHICLE
+1.BICYCLE
+2.CAR
+3.BIKE
+4.Exit
+Choice::2
+----------------------------------------------------------------------
+Car started successfully
+----------------------------------------------------------------------
+1. Speed Up
+2. Change gear
+3. Apply Brakes
+4. Display Vehicle Status
+5. Change Vehicle /Exit
+Choice::1
+----------------------------------------------------------------------
+Speed up for car
+Current speed is 50 km/hr
+----------------------------------------------------------------------
+1. Speed Up
+2. Change gear
+3. Apply Brakes
+4. Display Vehicle Status
+5. Change Vehicle /Exit
+Choice::1
+----------------------------------------------------------------------
+Speed up for car
+Current speed is 90 km/hr
+----------------------------------------------------------------------
+1. Speed Up
+2. Change gear
+3. Apply Brakes
+4. Display Vehicle Status
+5. Change Vehicle /Exit
+Choice::2
+----------------------------------------------------------------------
+Which gear you want? 8
+Gear Out Of Range
+----------------------------------------------------------------------
+1. Speed Up
+2. Change gear
+3. Apply Brakes
+4. Display Vehicle Status
+5. Change Vehicle /Exit
+Choice::2
+----------------------------------------------------------------------
+Which gear you want? 6
+Gear changed for car
+Current Gear is 6
+----------------------------------------------------------------------
+1. Speed Up
+2. Change gear
+3. Apply Brakes
+4. Display Vehicle Status
+5. Change Vehicle /Exit
+Choice::4
+----------------------------------------------------------------------
+Car's speed is 90 km/hr and gear is 6
+----------------------------------------------------------------------
+1. Speed Up
+2. Change gear
+3. Apply Brakes
+4. Display Vehicle Status
+5. Change Vehicle /Exit
+Choice::3
+----------------------------------------------------------------------
+1. Decrease speed
+2. Stop car
+1
+Applied brakes for car
+Current speed is 70 km/hr
+----------------------------------------------------------------------
+1. Speed Up
+2. Change gear
+3. Apply Brakes
+4. Display Vehicle Status
+5. Change Vehicle /Exit
+Choice::5
+----------------------------------------------------------------------
+SELECT VEHICLE
+1.BICYCLE
+2.CAR
+3.BIKE
+4.Exit
+Choice::3
+----------------------------------------------------------------------
+Bike started successfully
+----------------------------------------------------------------------
+1. Speed Up
+2. Change gear
+3. Apply Brakes
+4. Display Vehicle Status
+5. Change Vehicle /Exit
+Choice::2
+----------------------------------------------------------------------
+Which gear you want? 5
+Gear changed for bike is 5
+----------------------------------------------------------------------
+1. Speed Up
+2. Change gear
+3. Apply Brakes
+4. Display Vehicle Status
+5. Change Vehicle /Exit
+Choice::3
+----------------------------------------------------------------------
+1. Decrease speed
+2. Stop bike
+2
+Bike stopped successfully
+----------------------------------------------------------------------
+1. Speed Up
+2. Change gear
+3. Apply Brakes
+4. Display Vehicle Status
+5. Change Vehicle /Exit
+Choice::4
+----------------------------------------------------------------------
+Bike's speed is 0 km/hr and gear is 0
+----------------------------------------------------------------------
+1. Speed Up
+2. Change gear
+3. Apply Brakes
+4. Display Vehicle Status
+5. Change Vehicle /Exit
+Choice::5
+----------------------------------------------------------------------
+SELECT VEHICLE
+1.BICYCLE
+2.CAR
+3.BIKE
+4.Exit
+Choice::4
+----------------------------------------------------------------------
