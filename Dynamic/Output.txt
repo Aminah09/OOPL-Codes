@@ -1,0 +1,9 @@
+Input for triangle
+Enter 1st value : 85
+Enter 2nd value : 60
+Area of triangle is 2550.0
+
+Input for rectangle
+Enter 1st value : 41
+Enter 2nd value : 35
+Area of rectangle is 1435.0
