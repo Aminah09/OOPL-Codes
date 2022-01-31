@@ -1,0 +1,174 @@
+1. Create Records
+2. Display Records
+3. Delete Records
+4. Clear All Records
+5. Update Records
+6. Search Records
+7. Exit
+
+Enter your choice : 1
+Student Id: 11205
+Enter Student Name: Priyanka
+Roll no: 2316
+Class: SE IT
+Marks : 520
+Address: Kubera Park
+
+Records added successfully !
+Do you want to add more records ? (y/n) : y
+
+Student Id: 11209
+Enter Student Name: Radhika
+Roll no: 2326
+Class: SE IT
+Marks : 460
+Address: Parmar Pavan
+Records added successfully !
+Do you want to add more records ? (y/n) : y
+
+Student Id: 11220
+Enter Student Name: Ishanvi
+Roll no: 2345
+Class: SE IT
+Marks : 620
+Address: Hill Mist
+
+Records added successfully !
+Do you want to add more records ? (y/n) : n
+
+1. Create Records
+2. Display Records
+3. Delete Records
+4. Clear All Records
+5. Update Records
+6. Search Records
+7. Exit
+
+Enter your choice : 2
+----------------------------------------------------
+NAME      ID   ROLL NO  ADDRESS     CLASS  MARKS
+Priyanka 11205 2316    Kubera Park  SE IT  520.0
+Radhika  11209 2326   Parmar Pavan  SE IT  460.0
+Ishanvi  11220 2345    Hill Mist    SE IT  620.0
+
+1. Create Records
+2. Display Records
+3. Delete Records
+4. Clear All Records
+5. Update Records
+6. Search Records
+7. Exit
+
+Enter your choice : 6
+Enter an id of the student you want to search: 11203
+Record not found
+
+1. Create Records
+2. Display Records
+3. Delete Records
+4. Clear All Records
+5. Update Records
+6. Search Records
+7. Exit
+
+Enter your choice : 6
+Enter an id of the student you want to search: 11209
+Record found
+Radhika  11209  2326 Parmar  Pavan  SE IT  460.0
+
+1. Create Records
+2. Display Records
+3. Delete Records
+4. Clear All Records
+5. Update Records
+6. Search Records
+7. Exit
+
+Enter your choice : 3
+Enter the name of the student you want to delete: Ishanvi
+Record found
+Deleted successfully
+Renamed successfully
+
+1. Create Records
+2. Display Records
+3. Delete Records
+4. Clear All Records
+5. Update Records
+6. Search Records
+7. Exit
+
+Enter your choice : 5
+Enter the name of the student you want to update: Priyanka
+Record found
+Enter updated marks:650
+Record updated successfully
+Renamed successfully
+
+1. Create Records
+2. Display Records
+3. Delete Records
+4. Clear All Records
+5. Update Records
+6. Search Records
+7. Exit
+
+Enter your choice : 1
+Student Id: 11237
+Enter Student Name: Anikaa
+Roll no: 2368
+Class: SE IT
+Marks : 550
+Address: Oxford Complex
+
+Records added successfully !
+Do you want to add more records ? (y/n) : n
+
+1. Create Records
+2. Display Records
+3. Delete Records
+4. Clear All Records
+5. Update Records
+6. Search Records
+7. Exit
+
+Enter your choice : 2
+----------------------------------------------------
+NAME      ID   ROLL NO ADDRESS        CLASS  MARKS
+Priyanka 11205 2316    650
+Radhika  11209 2326    Parmar Pavan   SE IT  460.0
+Anikaa   11237 2368    Oxford Complex SE IT  550.0
+
+1. Create Records
+2. Display Records
+3. Delete Records
+4. Clear All Records
+5. Update Records
+6. Search Records
+7. Exit
+
+Enter your choice : 4
+All Records cleared successfully !
+
+1. Create Records
+2. Display Records
+3. Delete Records
+4. Clear All Records
+5. Update Records
+6. Search Records
+7. Exit
+
+Enter your choice : 2
+----------------------------------------------------
+NAME  ID  ROLL NO  ADDRESS  CLASS  MARKS
+
+1. Create Records
+2. Display Records
+3. Delete Records
+4. Clear All Records
+5. Update Records
+6. Search Records
+7. Exit
+
+Enter your choice : 7
+----------------------------------------------------
